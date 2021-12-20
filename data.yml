@@ -1,114 +1,114 @@
 cables:
   W0:
-    colors: [BU]
+    colors: [VT]
     wirecount: 1
   W1:
-    colors: [OG]
+    colors: [BU]
     wirecount: 1
   W100:
-    colors: [BK]
+    colors: [VT]
     wirecount: 1
   W101:
     colors: [OG]
     wirecount: 1
   W102:
-    colors: [OG]
+    colors: [BK]
     wirecount: 1
   W103:
-    colors: [RD]
+    colors: [BU]
     wirecount: 1
   W104:
-    colors: [RD]
+    colors: [VT]
     wirecount: 1
   W105:
     colors: [OG]
     wirecount: 1
   W106:
-    colors: [BK]
+    colors: [VT]
     wirecount: 1
   W107:
-    colors: [VT]
+    colors: [OG]
     wirecount: 1
   W111:
-    colors: [BU]
+    colors: [RD]
     wirecount: 1
   W12:
-    colors: [VT]
+    colors: [OG]
     wirecount: 1
   W127:
-    colors: [RD]
+    colors: [OG]
     wirecount: 1
   W128:
-    colors: [RD]
+    colors: [OG]
     wirecount: 1
   W148:
-    colors: [BU]
+    colors: [RD]
     wirecount: 1
   W149:
-    colors: [VT]
+    colors: [BU]
     wirecount: 1
   W159:
-    colors: [BU]
+    colors: [RD]
     wirecount: 1
   W177:
-    colors: [BK]
+    colors: [VT]
     wirecount: 1
   W178:
-    colors: [BU]
+    colors: [RD]
     wirecount: 1
   W179:
     colors: [RD]
     wirecount: 1
   W180:
-    colors: [RD]
+    colors: [BU]
     wirecount: 1
   W195:
     colors: [RD]
     wirecount: 1
   W196:
-    colors: [BK]
+    colors: [BU]
     wirecount: 1
   W2:
-    colors: [VT]
+    colors: [RD]
     wirecount: 1
   W226:
-    colors: [BU]
+    colors: [RD]
     wirecount: 1
   W227:
     colors: [BU]
     wirecount: 1
   W228:
-    colors: [VT]
+    colors: [BU]
     wirecount: 1
   W229:
-    colors: [OG]
-    wirecount: 1
-  W236:
-    colors: [RD]
-    wirecount: 1
-  W237:
-    colors: [OG]
-    wirecount: 1
-  W238:
-    colors: [VT]
-    wirecount: 1
-  W239:
-    colors: [VT]
-    wirecount: 1
-  W240:
-    colors: [VT]
-    wirecount: 1
-  W27:
-    colors: [RD]
-    wirecount: 1
-  W28:
-    colors: [VT]
-    wirecount: 1
-  W289:
     colors: [BK]
     wirecount: 1
-  W29:
+  W236:
     colors: [BU]
+    wirecount: 1
+  W237:
+    colors: [VT]
+    wirecount: 1
+  W238:
+    colors: [BK]
+    wirecount: 1
+  W239:
+    colors: [BU]
+    wirecount: 1
+  W240:
+    colors: [OG]
+    wirecount: 1
+  W27:
+    colors: [OG]
+    wirecount: 1
+  W28:
+    colors: [OG]
+    wirecount: 1
+  W289:
+    colors: [OG]
+    wirecount: 1
+  W29:
+    colors: [BK]
     wirecount: 1
   W290:
     colors: [VT]
@@ -117,67 +117,67 @@ cables:
     colors: [RD]
     wirecount: 1
   W30:
-    colors: [BU]
+    colors: [BK]
     wirecount: 1
   W303:
-    colors: [OG]
+    colors: [RD]
     wirecount: 1
   W304:
     colors: [OG]
     wirecount: 1
   W31:
-    colors: [VT]
+    colors: [RD]
     wirecount: 1
   W4:
-    colors: [OG]
+    colors: [VT]
     wirecount: 1
   W466:
     colors: [BU]
     wirecount: 1
   W467:
-    colors: [RD]
+    colors: [BK]
     wirecount: 1
   W474:
-    colors: [RD]
+    colors: [BK]
     wirecount: 1
   W475:
     colors: [VT]
     wirecount: 1
   W476:
-    colors: [RD]
+    colors: [OG]
     wirecount: 1
   W477:
-    colors: [OG]
+    colors: [VT]
     wirecount: 1
   W478:
-    colors: [VT]
+    colors: [OG]
     wirecount: 1
   W479:
-    colors: [BU]
+    colors: [BK]
     wirecount: 1
   W480:
-    colors: [BK]
+    colors: [BU]
     wirecount: 1
   W482:
-    colors: [BK]
+    colors: [VT]
     wirecount: 1
   W484:
-    colors: [OG]
+    colors: [RD]
     wirecount: 1
   W500:
-    colors: [VT]
-    wirecount: 1
-  W501:
     colors: [OG]
     wirecount: 1
+  W501:
+    colors: [BK]
+    wirecount: 1
   W71:
-    colors: [VT]
+    colors: [RD]
     wirecount: 1
   W72:
-    colors: [RD]
+    colors: [VT]
     wirecount: 1
   W73:
-    colors: [RD]
+    colors: [BK]
     wirecount: 1
   W76:
     colors: [OG]
@@ -186,10 +186,10 @@ cables:
     colors: [RD]
     wirecount: 1
   W98:
-    colors: [BK]
+    colors: [RD]
     wirecount: 1
   W99:
-    colors: [OG]
+    colors: [RD]
     wirecount: 1
 connections:
 - - AIL: [1]
@@ -390,7 +390,7 @@ connectors:
     pinlabels: [AIL_PIN1_LED+, AIL_PIN2_LED-]
     pins: [1, 2]
   AIR+:
-    color: BU
+    color: VT
     pinlabels: [AIR+_PIN1_AIR+_COIL, AIR+_PIN2_GND]
     pins: [1, 2]
   AIR-:
@@ -411,7 +411,7 @@ connectors:
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
       21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
   BMS_CRNT_THERM:
-    color: RD
+    color: BU
     pinlabels: [BMS_CRNT_THERM_PIN1_RMT_1+, BMS_CRNT_THERM_PIN2_RMT_1-, BMS_CRNT_THERM_PIN3_RMT_2+,
       BMS_CRNT_THERM_PIN4_RMT_2-, BMS_CRNT_THERM_PIN5_THRM_8, BMS_CRNT_THERM_PIN6_THRM_7,
       BMS_CRNT_THERM_PIN7_THRM_6, BMS_CRNT_THERM_PIN8_THRM_5, BMS_CRNT_THERM_PIN9_THRM_4,
@@ -425,7 +425,7 @@ connectors:
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
       21, 22, 23, 24, 25, 26, 27, 28]
   BMS_IO:
-    color: RD
+    color: OG
     pinlabels: [BMS_IO_PIN1_AON_PWR, BMS_IO_PIN2_RDY_PWR, BMS_IO_PIN3_CHG_PWR, BMS_IO_PIN4_SOC,
       BMS_IO_PIN5_CHG_CRNT_LIM, BMS_IO_PIN6_CHG_SFTY, BMS_IO_PIN7_DIS_EN, BMS_IO_PIN8_CHG_EN,
       BMS_IO_PIN9_MULTI_IN_3, BMS_IO_PIN10_FAN_EN, BMS_IO_PIN11_, BMS_IO_PIN12_GND,
@@ -436,23 +436,23 @@ connectors:
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
       21, 22, 23, 24, 25, 26]
   DASH:
-    color: OG
+    color: RD
     pinlabels: [DASH_PIN1_12V, DASH_PIN2_IMD_FAULT_LED, DASH_PIN3_BMS_FAULT_LED, DASH_PIN4_BSPD_FAULT_LED,
       DASH_PIN5_SOC_LED+, DASH_PIN6_SOC_RED-, DASH_PIN7_SOC_GREEN-, DASH_PIN8_START_SW-,
       DASH_PIN9_ACC_FAN_SW-, DASH_PIN10_PUMP_SW-, DASH_PIN11_RAD_FAN_SW-, DASH_PIN12_ACTIVE_AERO_SW-,
       DASH_PIN13_NC, DASH_PIN14_GND]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
   DASH_PCB:
-    color: RD
+    color: BU
     pinlabels: [DASH_PCB_PIN1_5V, DASH_PCB_PIN2_BMS_SOC, DASH_PCB_PIN3_SOC_LED+, DASH_PCB_PIN4_SOC_RED-,
       DASH_PCB_PIN5_SOC_GREEN-, DASH_PCB_PIN6_NC, DASH_PCB_PIN7_NC, DASH_PCB_PIN8_GND]
     pins: [1, 2, 3, 4, 5, 6, 7, 8]
   DISCH_HV:
-    color: RD
+    color: OG
     pinlabels: [DISCH_HV_PIN1_DC+, DISCH_HV_PIN2_DC-]
     pins: [1, 2]
   DISCH_LV:
-    color: BK
+    color: BU
     pinlabels: [DISCH_LV_PIN1_GND, DISCH_LV_PIN2_NC, DISCH_LV_PIN3_NC, DISCH_LV_PIN4_NC,
       DISCH_LV_PIN5_CHARGER_12V, DISCH_LV_PIN6_TSMS]
     pins: [1, 2, 3, 4, 5, 6]
@@ -469,7 +469,7 @@ connectors:
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
       21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
   FB:
-    color: BK
+    color: OG
     pinlabels: [FB_PIN1_LV_IN, FB_PIN2_LV_IN, FB_PIN3_LV_IN, FB_PIN4_LV_IN, FB_PIN5_ACC_FAN_OUT,
       FB_PIN6_RAD_FAN_OUT, FB_PIN7_PUMP_OUT, FB_PIN8_ACTIVE_AERO_OUT, FB_PIN9_NC,
       FB_PIN10_NC, FB_PIN11_IMD_OUT, FB_PIN12_NC, FB_PIN13_BMS_OUT, FB_PIN14_12V_SENS,
@@ -478,16 +478,16 @@ connectors:
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
       21, 22, 23]
   IMD_HV:
-    color: RD
+    color: OG
     pinlabels: [IMD_HV_PIN1_XLA+, IMD_HV_PIN2_XLA-]
     pins: [1, 2]
   IMD_LV:
-    color: BU
+    color: VT
     pinlabels: [IMD_LV_PIN1_KI31, IMD_LV_PIN2_KI15, IMD_LV_PIN3_KI31, IMD_LV_PIN4_KI31,
       IMD_LV_PIN5_MHS, IMD_LV_PIN6_MLS, IMD_LV_PIN7_NC, IMD_LV_PIN8_OKHS]
     pins: [1, 2, 3, 4, 5, 6, 7, 8]
   LVBOX_LV:
-    color: BK
+    color: VT
     pinlabels: [LVBOX_LV_PIN1_CHG_STATE, LVBOX_LV_PIN2_DISCHG_EN, LVBOX_LV_PIN3_SAFETY_CIRCUIT,
       LVBOX_LV_PIN4_BRAKE_PRESSURE, LVBOX_LV_PIN5_SAFETY_CIRCUIT, LVBOX_LV_PIN6_ACCUM_CURRENT,
       LVBOX_LV_PIN7_BSPD_LED, LVBOX_LV_PIN8_IMD_FAULT, LVBOX_LV_PIN9_IMD_LED, LVBOX_LV_PIN10_MP_EN,
@@ -507,11 +507,11 @@ connectors:
       21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
   LV_BATT:
-    color: BU
+    color: RD
     pinlabels: [LV_BATT_PIN1_BATT+, LV_BATT_PIN2_BATT-]
     pins: [1, 2]
   MCJ1:
-    color: RD
+    color: VT
     pinlabels: [MCJ1_PIN1_XDCR_PWR, MCJ1_PIN2_AGND, MCJ1_PIN3_AIN4, MCJ1_PIN4_AOUT,
       MCJ1_PIN5_RTD1, MCJ1_PIN6_RTD2, MCJ1_PIN7_PROG_ENABLE, MCJ1_PIN8_DIN2, MCJ1_PIN9_DIN5,
       MCJ1_PIN10_DIN8, MCJ1_PIN11_CANA_L, MCJ1_PIN12_TXD, MCJ1_PIN13_AIN1, MCJ1_PIN14_XDCR_PWR,
@@ -538,7 +538,7 @@ connectors:
       MOD1TM_PIN10_TM7, MOD1TM_PIN11_NC, MOD1TM_PIN12_NC]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   MOD1VT:
-    color: RD
+    color: VT
     pinlabels: [MOD1VT_PIN1_VT_9+, MOD1VT_PIN2_VT_13+, MOD1VT_PIN3_VT_15+, MOD1VT_PIN4_VT_11+,
       MOD1VT_PIN5_VT_2+, MOD1VT_PIN6_VT_6+, MOD1VT_PIN7_NC, MOD1VT_PIN8_VT_13-, MOD1VT_PIN9_VT_12+,
       MOD1VT_PIN10_VT_14+, MOD1VT_PIN11_VT_7+, MOD1VT_PIN12_VT_5+, MOD1VT_PIN13_NC,
@@ -546,13 +546,13 @@ connectors:
       MOD1VT_PIN18_VT_4+, MOD1VT_PIN19_VT_10+, MOD1VT_PIN20_VT_8+]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
   MOD2TM:
-    color: VT
+    color: OG
     pinlabels: [MOD2TM_PIN1_TM14, MOD2TM_PIN2_TM13, MOD2TM_PIN3_TM12, MOD2TM_PIN4_TM11,
       MOD2TM_PIN5_TM10, MOD2TM_PIN6_TM9, MOD2TM_PIN7_TEM_4, MOD2TM_PIN8_TEM_3, MOD2TM_PIN9_TM16,
       MOD2TM_PIN10_TM15, MOD2TM_PIN11_NC, MOD2TM_PIN12_NC]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   MOD2VT:
-    color: BU
+    color: OG
     pinlabels: [MOD2VT_PIN1_VT_23+, MOD2VT_PIN2_VT_21+, MOD2VT_PIN3_VT_19+, MOD2VT_PIN4_VT_28+,
       MOD2VT_PIN5_VT_26+, MOD2VT_PIN6_VT_17+, MOD2VT_PIN7_NC, MOD2VT_PIN8_VT_22+,
       MOD2VT_PIN9_VT_20+, MOD2VT_PIN10_VT_18+, MOD2VT_PIN11_VT_25+, MOD2VT_PIN12_VT_27+,
@@ -560,13 +560,13 @@ connectors:
       MOD2VT_PIN17_VT_32+, MOD2VT_PIN18_VT_30+, MOD2VT_PIN19_VT_24+, MOD2VT_PIN20_VT_29-]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
   MOD3TM:
-    color: RD
+    color: BK
     pinlabels: [MOD3TM_PIN1_TM22, MOD3TM_PIN2_TM21, MOD3TM_PIN3_TM20, MOD3TM_PIN4_TM19,
       MOD3TM_PIN5_TM18, MOD3TM_PIN6_TM17, MOD3TM_PIN7_TEM_6, MOD3TM_PIN8_TEM_5, MOD3TM_PIN9_TM24,
       MOD3TM_PIN10_TM23, MOD3TM_PIN11_NC, MOD3TM_PIN12_NC]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   MOD3VT:
-    color: BU
+    color: RD
     pinlabels: [MOD3VT_PIN1_VT_41+, MOD3VT_PIN2_VT_45+, MOD3VT_PIN3_VT_47+, MOD3VT_PIN4_VT_43+,
       MOD3VT_PIN5_VT_34+, MOD3VT_PIN6_VT_38+, MOD3VT_PIN7_NC, MOD3VT_PIN8_VT_45-,
       MOD3VT_PIN9_VT_44+, MOD3VT_PIN10_VT_46+, MOD3VT_PIN11_VT_39+, MOD3VT_PIN12_VT_37+,
@@ -580,7 +580,7 @@ connectors:
       MOD4TM_PIN10_TM31, MOD4TM_PIN11_NC, MOD4TM_PIN12_NC]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   MOD4VT:
-    color: VT
+    color: BK
     pinlabels: [MOD4VT_PIN1_VT_55+, MOD4VT_PIN2_VT_53+, MOD4VT_PIN3_VT_51+, MOD4VT_PIN4_VT_60+,
       MOD4VT_PIN5_VT_58+, MOD4VT_PIN6_VT_49+, MOD4VT_PIN7_NC, MOD4VT_PIN8_VT_54+,
       MOD4VT_PIN9_VT_52+, MOD4VT_PIN10_VT_50+, MOD4VT_PIN11_VT_57+, MOD4VT_PIN12_VT_59+,
@@ -602,29 +602,29 @@ connectors:
       MOD5VT_PIN17_VT_65-, MOD5VT_PIN18_VT_68+, MOD5VT_PIN19_VT_74+, MOD5VT_PIN20_VT_72+]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
   PRECH_AIL:
-    color: BU
+    color: VT
     pinlabels: [PRECH_AIL_PIN1_LED+, PRECH_AIL_PIN2_LED-]
     pins: [1, 2]
   PRECH_HV:
-    color: OG
+    color: RD
     pinlabels: [PRECH_HV_PIN1_ACC+, PRECH_HV_PIN2_ACC-, PRECH_HV_PIN3_AIR+, PRECH_HV_PIN4_AIR-,
       PRECH_HV_PIN5_CHARGER+]
     pins: [1, 2, 3, 4, 5]
   PRECH_LV:
-    color: BU
+    color: VT
     pinlabels: [PRECH_LV_PIN1_TSMS, PRECH_LV_PIN2_TSAL_RED, PRECH_LV_PIN3_TSAL_GREEN,
       PRECH_LV_PIN4_GND, PRECH_LV_PIN5_RLY2, PRECH_LV_PIN6_RLY1, PRECH_LV_PIN7_AIR+_COIL,
       PRECH_LV_PIN8_AIR-_COIL, PRECH_LV_PIN9_GLVMS, PRECH_LV_PIN10_HV_PRESENT, PRECH_LV_PIN11_CHARGER_12V,
       PRECH_LV_PIN12_CHARGE_SAFETY]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   SB:
-    color: VT
+    color: BU
     pinlabels: [SB_PIN1_12V, SB_PIN2_CHG_STATE, SB_PIN3_DISCHG_EN, SB_PIN4_SAFETY_CIRCUIT,
       SB_PIN5_BRAKE_PRESSURE, SB_PIN6_SAFETY_CIRCUIT, SB_PIN7_ACCUM_CURRENT, SB_PIN8_BSPD_LED,
       SB_PIN9_IMD_FAULT, SB_PIN10_IMD_LED, SB_PIN11_MP_EN, SB_PIN12_BMS_LED, SB_PIN13_RESET,
       SB_PIN14_GND]
     pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
   TSAL:
-    color: VT
+    color: BK
     pinlabels: [TSAL_PIN1_GND, TSAL_PIN2_TSAL_RED, TSAL_PIN3_TSAL_GREEN]
     pins: [1, 2, 3]

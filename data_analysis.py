@@ -1,14 +1,9 @@
 import pandas as pd
 import yaml as yl
-from gsheets import Sheets
-import requests as rs
-from urllib.request import FancyURLopener
-from io import BytesIO
 import random
 
 def main():
   df = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQrmXOPYzar8P-FId_oa2lfisX-T_NATGri6UGQ3yixy_JE5f4DqlKhXLkfstZrTaBnkZTq6mquWuvM/pub?gid=0&single=true&output=csv', skiprows = 1)
-  print(df.head())
   connectors = df['Connector Name'].unique()
   all_connectors = {}
   all_cables = {}
@@ -37,14 +32,8 @@ def main():
                           }
             }
     all_cables.update(cable)
-    print(source[0].iloc[0])
     temp_val = [{og_connector : [row['Pin Number']]}, {cable_name : [1]}, {(source[0].iloc[0]) : [int(source[1])]}]
     all_connections.append(temp_val)
-
-
-
-  print(pin_df)
-  print(all_cables)
 
   for connector in connectors:
     temp = df[df['Connector Name'] == connector]
@@ -74,4 +63,6 @@ def main():
               'connections' : all_connections}
   file = open('data.yml', 'w')
   yl.dump(dict_file, file, default_flow_style=None)
+
+  print('Data Pulled & Updated')
 
