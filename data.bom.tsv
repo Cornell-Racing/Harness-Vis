@@ -1,0 +1,26 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 1 wires	0	m	W0, W1, W100, W101, W102, W103, W104, W105, W106, W107, W111, W12, W127, W128, W148, W149, W159, W177, W178, W179, W180, W195, W196, W2, W226, W227, W228, W229, W236, W237, W238, W239, W240, W27, W28, W289, W29, W290, W297, W30, W303, W304, W31, W4, W466, W467, W474, W475, W476, W477, W478, W479, W480, W482, W484, W500, W501, W71, W72, W73, W76, W97, W98, W99
+2	Connector, 12 pins, BU	2		MOD5TM, PRECH_LV
+3	Connector, 12 pins, RD	1		MOD3TM
+4	Connector, 12 pins, VT	3		MOD1TM, MOD2TM, MOD4TM
+5	Connector, 14 pins, OG	1		DASH
+6	Connector, 14 pins, VT	1		SB
+7	Connector, 2 pins, BK	1		AIL
+8	Connector, 2 pins, BU	4		AIR+, AIR-, LV_BATT, PRECH_AIL
+9	Connector, 2 pins, RD	2		DISCH_HV, IMD_HV
+10	Connector, 20 pins, BK	1		MOD5VT
+11	Connector, 20 pins, BU	2		MOD2VT, MOD3VT
+12	Connector, 20 pins, RD	1		MOD1VT
+13	Connector, 20 pins, VT	1		MOD4VT
+14	Connector, 23 pins, BK	2		FB, MCJ2
+15	Connector, 26 pins, RD	1		BMS_IO
+16	Connector, 28 pins, RD	1		BMS_CRNT_THERM
+17	Connector, 3 pins, VT	1		TSAL
+18	Connector, 35 pins, RD	1		MCJ1
+19	Connector, 35 pins, VT	1		ECU
+20	Connector, 37 pins, BK	1		ASC
+21	Connector, 5 pins, OG	1		PRECH_HV
+22	Connector, 51 pins, BK	1		LVBOX_LV
+23	Connector, 6 pins, BK	1		DISCH_LV
+24	Connector, 8 pins, BU	1		IMD_LV
+25	Connector, 8 pins, RD	1		DASH_PCB
